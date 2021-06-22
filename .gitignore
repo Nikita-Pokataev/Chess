@@ -1,5 +1,4 @@
 *.vcxproj
-Debug/
-x64/
+x64/Debug/
 *.filters
 *.user
